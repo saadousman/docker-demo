@@ -1,5 +1,3 @@
-import org.jenkinsci.plugins.docker.workflow.Docker
-
 node {
    def commit_id
    stage('Preparation') {
